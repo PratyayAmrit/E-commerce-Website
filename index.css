@@ -1,0 +1,39 @@
+.top {
+padding:10px;
+Background-color:#000;
+color:#fff;
+}
+header.top a {
+text-decoration:none;
+color: #fff;
+}
+
+p {
+font-size:20px;
+display:inline;
+}
+
+
+div.product {
+margin:20px 40px;
+display:inline-block;
+width:350px;
+border:1px solid #ccc;
+}
+div.product img {
+width:25%
+height:25%;
+}
+div.desc {
+padding:5px;
+text-align:center;
+}
+div.desc p{
+font-size:10px;
+}
+footer {
+background-color: black;
+color:grey;
+text-align: center;
+font-size: 12px;
+}
